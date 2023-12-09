@@ -1,4 +1,4 @@
-# Dilab-Preingenieria-UC-
+# Dilab-Preingenieria-UC
 En este repositorio se encuentran publicados los archivos generados para la creación de TemblorSAFE.
 Consiste en una caja que contiene una mesa vibratoria y cuenta con un kit de estructura armable similar a un edificio, al que se le puede agregar un péndulo antisísmico, lo que permite disipar energía del movimiento producido por la mesa vibratoria.
 Los archivos son:
